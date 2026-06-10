@@ -4,6 +4,6 @@
   "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/xboys-mobile/turk/plugins.json"
+    "https://raw.githubusercontent.com/xboys-mobile/turk/main/plugins.json"
   ]
 }
