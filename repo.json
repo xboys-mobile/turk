@@ -1,0 +1,9 @@
+{
+  "name": "Manitux Turkish Providers Repository",
+  "description": "Manitux için Türkçe içerik sağlayan eklentilerin bulunduğu depo.",
+  "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/xboys-mobile/turk/plugins.json"
+  ]
+}

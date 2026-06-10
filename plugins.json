@@ -1,0 +1,73 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/xboys-mobile/turk/TurkishProviders.dll",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "authors": [
+      "xboys-mobile"
+    ],
+    "repositoryUrl": "https://github.com/xboys-mobile/turk",
+     "plugins": [
+      {
+        "name": "DiziBox",
+        "internalName": "plugin.dizibox",
+        "description": "Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+        "language": "tr",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=64",
+        "isAdult": false,
+        "tvTypes": [
+          "TvSeries"
+        ]
+      },
+      {
+        "name": "DiziPal",
+        "internalName": "plugin.dizipal",
+        "description": "Film dizi ve anime izleme sitesi.",
+        "language": "tr",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal.im&sz=64",
+        "isAdult": false
+      },
+      {
+        "name": "DiziYou",
+        "internalName": "plugin.diziyou",
+        "description": "Türkçe Altyazılı ve Dublaj Yabancı Dizi İzle",
+        "language": "tr",
+        "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+        "isAdult": false
+      },
+      {
+        "name": "FilmEkseni",
+        "internalName": "plugin.filmekseni",
+        "description": "Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde izle.",
+        "language": "tr",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmekseni.nl&sz=64",
+        "isAdult": false
+      },
+      {
+        "name": "FilmMakinesi",
+        "internalName": "plugin.filmmakinesi",
+        "description": "En yeni ve guncel filmleri Full HD kalite farki ile izle.",
+        "language": "tr",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=64",
+        "isAdult": false
+      },
+      {
+        "name": "FilmModu",
+        "internalName": "plugin.filmmodu",
+        "description": "Film izle, 1080p Kalitesinde HD Film izle.",
+        "language": "tr",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmodu.one&sz=64",
+        "isAdult": false
+      },
+      {
+        "name": "HdFilmCehennemi",
+        "internalName": "plugin.hdfilmcehennemi",
+        "description": "Turkiye'nin en hizli hd film izleme sitesi.",
+        "language": "tr",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=64",
+        "isAdult": false
+      }
+    ]
+  }
+]
