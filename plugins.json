@@ -41,7 +41,7 @@
         "internalName": "plugin.filmekseni",
         "description": "Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde izle.",
         "language": "tr",
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmekseni.nl&sz=64",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmekseni.nl&sz=64",
         "isAdult": false
       },
       {
